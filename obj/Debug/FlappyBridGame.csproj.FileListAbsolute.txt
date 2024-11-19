@@ -1,0 +1,11 @@
+C:\Users\MBM\source\repos\FlappyBridGame\bin\Debug\FlappyBridGame.exe.config
+C:\Users\MBM\source\repos\FlappyBridGame\bin\Debug\FlappyBridGame.exe
+C:\Users\MBM\source\repos\FlappyBridGame\bin\Debug\FlappyBridGame.pdb
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.csproj.AssemblyReference.cache
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.Form1.resources
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.Properties.Resources.resources
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.csproj.GenerateResource.cache
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.csproj.CoreCompileInputs.cache
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.exe
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.pdb
+C:\Users\MBM\source\repos\FlappyBridGame\obj\Debug\FlappyBridGame.Form2.resources
